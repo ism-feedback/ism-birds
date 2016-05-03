@@ -1,0 +1,89 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-19 ; Times: 2
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pteroglossus aracari type:specimen" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 3
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "specificepithet:calendula genus:regulus year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "Coccothraustes minnesota" ; Times: 1
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 1
+	Query: "Phoenicopterus ruber institutioncode:ISM" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "locality:Lincoln stateprovince:&#34;Maine&#34; year &gt;= 1895 year &lt;= 1897" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1312 download events in this period)
+Total number of records downloaded: 219
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Platalea ajaja stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "sialia sialis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "phoenicopterus ruber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
