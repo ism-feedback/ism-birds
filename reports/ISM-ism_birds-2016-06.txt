@@ -1,0 +1,83 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 139
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Portugal ; Times: 13
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-14 ; Times: 10
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "dendroica magnolia type:specimen year &gt;= 1930 year &lt;= 2016 institutioncode:ISM" ; Times: 2
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1052 download events in this period)
+Total number of records downloaded: 249
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 5
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 3
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
