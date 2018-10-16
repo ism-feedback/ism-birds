@@ -1,0 +1,89 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 24
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-05 ; Times: 13
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gyrola genus:Tangara" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "specificepithet:decumanus genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus" ; Times: 1
+	Query: "sterna maxima skeleton vntype:specimen" ; Times: 2
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:flavipes genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:punicea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:rupicola genus:Rupicola" ; Times: 1
+	Query: "Anarhynchus frontalis" ; Times: 1
+	Query: "specificepithet:cayana genus:Cotinga" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:militaris genus:Sturnella" ; Times: 1
+	Query: "sterna maxima skeleton vntype:specimen continent:america" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "aves charadrius montana" ; Times: 1
+	Query: "specificepithet:Flavipes genus:Tringa class:Aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scutatus genus:Pyroderus" ; Times: 1
+	Query: "specificepithet:cotinga genus:Cotinga" ; Times: 1
+	Query: "specificepithet:averano genus:Procnias" ; Times: 1
+	Query: "specificepithet:solitaria genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:somptuosus genus:Anisognathus" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tangara" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 2
+	Query: "sterna maxima skeleton vntype:specimen continent:north america" ; Times: 1
+	Query: "specificepithet:sanguinolentus genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:icterocephalus genus:Chrysomus" ; Times: 1
+	Query: "specificepithet:violacea genus:Euphonia" ; Times: 1
+	Query: "specificepithet:auricapillus genus:Icterus" ; Times: 1
+	Query: "specificepithet:violaceus genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:aureola genus:Pipra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1178 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sterna maxima skeleton vntype:specimen" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
