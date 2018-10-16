@@ -1,0 +1,132 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 387
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 35
+	Country: India ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-15 ; Times: 13
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 28
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-23 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Megalurus punctatus&#34;" ; Times: 3
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Bubo virginianus pallescens minnesota" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "specificepithet:bicolor genus:Baeolophus class:aves year = 1929" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "class:aves stateprovince:&#34;nebraska&#34; institutioncode:ISM" ; Times: 1
+	Query: "Ramphocelus sanguinolentus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "necedah" ; Times: 1
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 8
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Myiodynastes luteiventris" ; Times: 1
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;cochise&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:longirostris genus:rallus preparations:skeleton" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Picoides borealis" ; Times: 2
+	Query: "specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "gbifdatasetid:2ffeb29f-0971-474c-895e-45e60da3b2a3" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Odontophorus guttatus" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1398 download events in this period)
+Total number of records downloaded: 429
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+	Country: Venezuela ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Locustellidae" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "class:Aves preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Laterallus" ; Times: 1
+
+
+End of report.
