@@ -1,0 +1,104 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 183
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 9
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 3
+	Query: "mellisuga" ; Times: 2
+	Query: "genus:Tachycineta bicolor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1930" ; Times: 2
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 4
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:cotinga genus:Cotinga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruficapilla class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Tachycineta bicolor stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "specificepithet:sabini class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1932 year &lt;= 1932" ; Times: 1
+	Query: "genus:tachycineta bicolor stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "specificepithet:eburnea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "genus:Calcarius class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves recordedby:Greist" ; Times: 2
+	Query: "specificepithet:melanocorys genus:Calamospiza class:Aves year &gt;= 1896 year &lt;= 1896" ; Times: 1
+	Query: "specificepithet:adamsii class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932 month &gt;= 7 month &lt;= 8" ; Times: 2
+	Query: "genus:Aegolius year &gt;= 1976 year &lt;= 1976" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1359 download events in this period)
+Total number of records downloaded: 424
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 11
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "class:aves locality:adak" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Progne subis" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Ventura&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+
+End of report.
