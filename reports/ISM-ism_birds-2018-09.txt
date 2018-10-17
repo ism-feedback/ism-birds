@@ -1,0 +1,77 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 193
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 8
+	Query: "gbifdatasetid:2ffeb29f-0971-474c-895e-45e60da3b2a3" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 5
+	Query: "myiopsitta institutioncode:ISM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 846 download events in this period)
+Total number of records downloaded: 786
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+
+
+End of report.
