@@ -1,0 +1,114 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 179
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 13
+	Country: Peru ; Times: 47
+	Country: Belgium ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-23 ; Times: 4
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 47
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 3
+	Query: "Crypturellus bartletti" ; Times: 2
+	Query: "specificepithet:magnolia class:aves year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 2
+	Query: "Eutoxeres aquila" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Anas bahamensis" ; Times: 2
+	Query: "Lesbia nuna" ; Times: 2
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Heliothryx auritus" ; Times: 2
+	Query: "Crypturellus variegatus" ; Times: 2
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Odontophorus gujanensis" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Anser indicus" ; Times: 4
+	Query: "conuropsis carolinensis" ; Times: 3
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 2
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "Polytmus guainumbi" ; Times: 2
+	Query: "Anthracothorax nigricollis" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Iowa Marshall county" ; Times: 1
+	Query: "anser indicus" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus year &gt;= 1870 year &lt;= 1910" ; Times: 3
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 2
+	Query: "Coeligena lutetiae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 977 download events in this period)
+Total number of records downloaded: 598
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "Caloenas" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+
+
+End of report.
