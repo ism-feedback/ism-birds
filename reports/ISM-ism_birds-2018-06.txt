@@ -1,0 +1,90 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 117
+Number of records retrieved in searches: 439
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 101
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 74
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-21 ; Times: 21
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:hirsuta genus:Tricholaema" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "genus:porphyrio institutioncode:ISM" ; Times: 2
+	Query: "numenius borealis vntype:specimen" ; Times: 6
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "numenius borealis" ; Times: 102
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "sterna maxima skeleton" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1169 download events in this period)
+Total number of records downloaded: 582
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+
+
+End of report.
