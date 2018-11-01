@@ -1,0 +1,85 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 115
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Peru ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-09 ; Times: 9
+	Date: 2018-10-29 ; Times: 12
+	Date: 2018-10-12 ; Times: 4
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 4
+	Query: "Campephilus principalis" ; Times: 7
+	Query: "campephilus principalis" ; Times: 1
+	Query: "asio flammeus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "sturnella magna hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus stateprovince:&#34;Nebraska&#34;" ; Times: 12
+	Query: "Strigops habroptilus" ; Times: 4
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "genus:Passerella class:aves year &gt;= 1910 year &lt;= 1910" ; Times: 2
+	Query: "family:Gaviidae locality:Kodiak" ; Times: 3
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Semioptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1300 download events in this period)
+Total number of records downloaded: 774
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+
+
+End of report.
