@@ -1,0 +1,94 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 105
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-29 ; Times: 11
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-05 ; Times: 7
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marmoratus genus:Brachyramphus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 7
+	Query: "specificepithet:pinus genus:Vermivora year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "Conuropsis carolinensis" ; Times: 4
+	Query: "genus:phoenicopterus year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "specificepithet:owenii genus:Apteryx" ; Times: 2
+	Query: "conuropsis carolinensis" ; Times: 7
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Poecile class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 809 download events in this period)
+Total number of records downloaded: 1570
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: India ; Times: 9
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+
+
+End of report.
