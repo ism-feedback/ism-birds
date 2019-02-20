@@ -1,0 +1,124 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 129
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 6
+	Country: Peru ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 6
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 10
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 8
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 4
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Dendroica chrysoparia" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "apteryx owenii" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Crypturellus bartletti" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:otus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:gentilis year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Mellisuga helenae" ; Times: 7
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 1
+	Query: "Pteroglossus azara" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:otus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 4
+	Query: "owenii" ; Times: 2
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Gymnogyps" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 962 download events in this period)
+Total number of records downloaded: 250
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "cONUROPSIS" ; Times: 1
+	Query: "country:&#34;Spain&#34; preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Hylocharis xantusii" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+
+
+End of report.
