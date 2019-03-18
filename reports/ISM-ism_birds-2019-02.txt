@@ -1,0 +1,91 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-04 ; Times: 5
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-08 ; Times: 6
+	Date: 2019-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus class:Aves institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:impennis genus:Pinguinus preparations:skeleton" ; Times: 2
+	Query: "Vireo bellii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "vinalhaven stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Cephalopterus glabricollis" ; Times: 2
+	Query: "fieldnumber:1567" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Pauxi pauxi" ; Times: 2
+	Query: "class:aves county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "vntype:specimen genus:Pityriasis class:Aves" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1227 download events in this period)
+Total number of records downloaded: 366
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 9
+	Country: Israel ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-11 ; Times: 8
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "class:aves county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "specificepithet:ignita genus:lophura" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "poecile Missouri" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
