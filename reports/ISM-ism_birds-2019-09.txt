@@ -1,0 +1,109 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 146
+Number of records retrieved in searches: 2735
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 137
+	Country: New Zealand ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-03 ; Times: 8
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-06 ; Times: 99
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-04 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 24
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Apteryx" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Kentucky&#34; institutioncode:ISM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 14
+	Query: "Coccyzus americanus americanus" ; Times: 36
+	Query: "Coccyzus americanus" ; Times: 20
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:cooperii genus:accipiter year &gt;= 1980 institutioncode:ISM" ; Times: 1
+	Query: "Calidris canutus" ; Times: 15
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "strigops habroptilus" ; Times: 3
+	Query: "Pinguinus" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:ISM" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 2
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:Lophura basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1073 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 15
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-10 ; Times: 16
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Stephanoxis lalandi" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+
+
+End of report.
