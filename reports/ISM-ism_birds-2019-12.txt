@@ -1,0 +1,54 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 4
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "grus americana florida" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 596 download events in this period)
+Total number of records downloaded: 166
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
