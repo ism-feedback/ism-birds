@@ -1,0 +1,81 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 73
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "turtur new zealand" ; Times: 1
+	Query: "copsychus malabaricus india" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "DOT 213" ; Times: 2
+	Query: "pterodroma macroptera" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Dendroica coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "603514" ; Times: 2
+	Query: "specificepithet:principalis genus:Campephilus stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Illinois&#34; (cerulea) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; AND (NOT Alaska) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:661524 institutioncode:ISM" ; Times: 1
+	Query: "albolarvatus California El Dorado County" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 853 download events in this period)
+Total number of records downloaded: 258
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Guadeloupe ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-05 ; Times: 8
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+
+
+End of report.
