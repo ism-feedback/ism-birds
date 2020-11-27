@@ -1,0 +1,140 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 626
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 52
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: United Kingdom ; Times: 9
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 35
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-24 ; Times: 17
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-23 ; Times: 9
+	Date: 2019-10-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Coccyzus americanus 1978" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Coccyzus americanus 1975" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 1
+	Query: "Coccyzus americanus 1977" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Mycteria americana 1985" ; Times: 1
+	Query: "Coccyzus americanus 1972" ; Times: 1
+	Query: "Coccyzus americanus 1973" ; Times: 1
+	Query: "Aphelocoma coerulescens 2013" ; Times: 2
+	Query: "Aphelocoma coerulescens 2016" ; Times: 2
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "stateprovince:&#34;Utah&#34; institutioncode:ISM" ; Times: 1
+	Query: "genus:Ardeotis australis" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 2
+	Query: "Coccyzus americanus 1990" ; Times: 1
+	Query: "Brachyramphus marmoratus 2013" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 9
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 4
+	Query: "Mycteria americana 1982" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "heliothryx auritus" ; Times: 2
+	Query: "Charadrius melodus 2013" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 2
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska NOT Canada NOT Attu" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska" ; Times: 1
+	Query: "Coccyzus americanus 1981" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 1
+	Query: "Coccyzus americanus 1982" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile class:Aves year &gt;= 1985 year &lt;= 1985 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 1
+	Query: "Puffinus tenuirostris AND Island NOT Australia NOT Alaska NOT Canada" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "Mycteria americana 2013" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1308 download events in this period)
+Total number of records downloaded: 442
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "stercorariidae" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "Tangara" ; Times: 2
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 3
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Tympanuchus phasianellus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Falco sparverius stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+
+
+End of report.
