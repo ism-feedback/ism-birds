@@ -1,0 +1,153 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 1133
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 248
+	Country: Sweden ; Times: 10
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-07 ; Times: 85
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 31
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 6
+	Date: 2020-04-21 ; Times: 66
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 42
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Falco chicquera india" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "Lophura ignita" ; Times: 3
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "phoebastria albatrus" ; Times: 4
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Pauxi pauxi" ; Times: 3
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "astrapia nigra" ; Times: 3
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Ocyceros birostris india" ; Times: 1
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; year &gt;= 1896 year &lt;= 1897" ; Times: 2
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Megalurus punctatus" ; Times: 3
+	Query: "Lophornis magnificus" ; Times: 4
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Anas falcata" ; Times: 13
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Anas penelope" ; Times: 11
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "pavo cristatus" ; Times: 3
+	Query: "Anas formosa" ; Times: 13
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Tragopan temminckii" ; Times: 2
+	Query: "francolinus francolinus india" ; Times: 1
+	Query: "Anser indicus" ; Times: 5
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Arborophila torqueola" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Gymnogyps californianus" ; Times: 3
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Chrysomus icterocephalus" ; Times: 2
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "strigops" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "Astrapia nigra" ; Times: 7
+	Query: "Cyanopica cyanus" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1171 download events in this period)
+Total number of records downloaded: 676
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+
+
+End of report.
