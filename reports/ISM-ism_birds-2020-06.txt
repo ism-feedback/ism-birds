@@ -1,0 +1,91 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 301
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 8
+	Country: Cuba ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 32
+	Country: Sweden ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-08 ; Times: 12
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-11 ; Times: 15
+	Date: 2020-06-10 ; Times: 17
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas falcata" ; Times: 6
+	Query: "Anas penelope" ; Times: 6
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "Pinguinus impennis preparations:Skeleton" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Cairina moschata" ; Times: 3
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "mellisuga helenae" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Epimachus" ; Times: 12
+	Query: "astrapia nigra" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 474 download events in this period)
+Total number of records downloaded: 824
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
