@@ -1,0 +1,89 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 8
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-25 ; Times: 2
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 4
+	Date: 2020-11-03 ; Times: 3
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:pelecanus institutioncode:ISM" ; Times: 2
+	Query: "scientificname:Laterallus jamaicensis" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 1
+	Query: "Tympanuchus phasianellus vntype:specimen stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "family:Hydrobatidae county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:erythrorhynchos genus:pelecanus institutioncode:ISM" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "vntype:specimen genus:pauxi class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Arizona&#34; year &gt;= 1987 year &lt;= 1987" ; Times: 3
+	Query: "numenius borealis" ; Times: 3
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:noveboracensis family:Parulidae stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 842 download events in this period)
+Total number of records downloaded: 2136
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 9
+	Date: 2020-11-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "specificepithet:erythrorhynchos genus:pelecanus institutioncode:ISM" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "specificepithet:Californica genus:Callipepla county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+
+
+End of report.
