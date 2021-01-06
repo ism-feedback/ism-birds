@@ -1,0 +1,91 @@
+Report for Institution Code ISM, Resource ism_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 22
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-03 ; Times: 8
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-04 ; Times: 17
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "692333" ; Times: 2
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "&#34;C. America&#34;" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "Acanthis hornemanni" ; Times: 2
+	Query: "Anas formosa" ; Times: 2
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "scientificname:Buceros rhinoceros" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "692341" ; Times: 2
+	Query: "Anas falcata" ; Times: 2
+	Query: "Sturnella militaris" ; Times: 1
+	Query: "Chrysomus icterocephalus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "Pasadena 1906" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 705 download events in this period)
+Total number of records downloaded: 2628
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+
+
+End of report.
